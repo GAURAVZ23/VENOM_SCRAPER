@@ -7,7 +7,11 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD:mayanagri/bin/activate.csh
 setenv VIRTUAL_ENV "/Users/Gauravz/GIT_REPO/VENOM_SCRAPER/mayanagri"
+=======
+setenv VIRTUAL_ENV "/Users/Gauravz/Sites/Python_project/VENOM_SCRAPER/mayanagri"
+>>>>>>> 1e8831bf0accfe21a1777fc4d69c64e20dc038c4:mayanagri/bin/activate.csh
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

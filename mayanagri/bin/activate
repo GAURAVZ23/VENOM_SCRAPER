@@ -39,7 +39,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD:mayanagri/bin/activate
 VIRTUAL_ENV="/Users/Gauravz/GIT_REPO/VENOM_SCRAPER/mayanagri"
+=======
+VIRTUAL_ENV="/Users/Gauravz/Sites/Python_project/VENOM_SCRAPER/mayanagri"
+>>>>>>> 1e8831bf0accfe21a1777fc4d69c64e20dc038c4:mayanagri/bin/activate
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

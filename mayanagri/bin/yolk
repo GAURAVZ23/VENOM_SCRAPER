@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/Users/Gauravz/GIT_REPO/VENOM_SCRAPER/mayanagri/bin/python2.7
+=======
+#!/Users/Gauravz/Sites/Python_project/VENOM_SCRAPER/mayanagri/bin/python2.7
+>>>>>>> 1e8831bf0accfe21a1777fc4d69c64e20dc038c4
 # EASY-INSTALL-ENTRY-SCRIPT: 'yolk==0.4.3','console_scripts','yolk'
 __requires__ = 'yolk==0.4.3'
 import sys

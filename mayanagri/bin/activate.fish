@@ -32,7 +32,11 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD:mayanagri/bin/activate.fish
 set -gx VIRTUAL_ENV "/Users/Gauravz/GIT_REPO/VENOM_SCRAPER/mayanagri"
+=======
+set -gx VIRTUAL_ENV "/Users/Gauravz/Sites/Python_project/VENOM_SCRAPER/mayanagri"
+>>>>>>> 1e8831bf0accfe21a1777fc4d69c64e20dc038c4:mayanagri/bin/activate.fish
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

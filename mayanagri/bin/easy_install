@@ -1,4 +1,8 @@
+<<<<<<< HEAD:mayanagri/bin/easy_install
 #!/Users/Gauravz/GIT_REPO/VENOM_SCRAPER/mayanagri/bin/python2.7
+=======
+#!/Users/Gauravz/Sites/Python_project/VENOM_SCRAPER/mayanagri/bin/python2.7
+>>>>>>> 1e8831bf0accfe21a1777fc4d69c64e20dc038c4:mayanagri/bin/easy_install
 
 # -*- coding: utf-8 -*-
 import re
