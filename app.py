@@ -69,9 +69,6 @@ def logout():
 
 
 
-
-
-
 #START THE SERVER WITH THE RUN METHOD
 
 if __name__ == '__main__':
